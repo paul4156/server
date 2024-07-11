@@ -1,6 +1,6 @@
 {
   "name": "paul4156-server",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "MIT",
-  "dependencies": {
+  "peerDependencies": {
     "paul4156-base": "^1.0.1"
   }
 }
